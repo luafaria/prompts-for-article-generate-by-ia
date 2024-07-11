@@ -36,7 +36,7 @@ Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa utilizados durante a gravação do conteúdo foram:
 
-| conteúdo | Text Illustrate how machine learning and artificial intelligence influences industries and business. Also implement elements that represent legal business issues, potential in efficiency, and business profits. entrepreneurships and start up vibes. |
+| prompt | Text Illustrate how machine learning and artificial intelligence influences industries and business. Also implement elements that represent legal business issues, potential in efficiency, and business profits. entrepreneurships and start up vibes. |
 
 ## ✨ Features
 
