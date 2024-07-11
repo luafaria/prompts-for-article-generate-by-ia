@@ -28,17 +28,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Preciso de um título no contexto Como a IA Generativa Pode Melhorar Testes de Aceitação: Baseados em Requisitos. {REGRAS}  Retorne pelo menos 05 sugestões considerando um Título Chamativo e Direto e um Subtitulo curto |                                                                                                                                                                                                   |
+| conteúdo | Crie um roteiro para que eu possa desenvolver meu artigo: {REGRAS} >Aborar o assunto Testes de Aceitação Baseados em Requisitos >Dê exemplos de IA Generativa e utilizações no cotidiano |
 
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa utilizados durante a gravação do conteúdo foram:
 
-• Angular
-
-
+| conteúdo | Text Illustrate how machine learning and artificial intelligence influences industries and business. Also implement elements that represent legal business issues, potential in efficiency, and business profits. entrepreneurships and start up vibes. |
 
 ## ✨ Features
 
@@ -62,7 +60,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/57598820?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspLuciane Faria<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/luafaria">
     GitHub</a>&nbsp;|&nbsp;
