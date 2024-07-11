@@ -3,7 +3,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Santander da [DIO](https://dio.me).
 
-Esse curso foi ministrado pelo ilustre @felipeAguiarCode:
+Esse curso foi ministrado pelo ilustre [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
